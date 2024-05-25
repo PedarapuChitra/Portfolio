@@ -1,1 +1,1 @@
-LINK :  https://pedarapuchitra.github.io/portfolio/
+LINK :  https://pedarapuchitra.github.io/Portfolio/
